@@ -1,0 +1,2 @@
+,avgQueryTime,avgTrainTime,avgTrainAccFinal,avgValAccFinal,finalAccuracy,param0,param1
+0,0.006877374649047851,0.0028649330139160155,0.7300626603739003,0.590297181372549,0.584735576923077,15,distance
