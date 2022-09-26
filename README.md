@@ -16,8 +16,6 @@ For this project, each algorithim is analyzed with respect to two different data
     Wine quality: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
     Water potability (https://www.kaggle.com/datasets/adityakadiwal/water-potability)
 
-    Note: The wine quality dataset is a slightly reduced variant used in Georgia Tech's ML4T class.  
-
     Both Datasets are provided under "Data", and are loaded automatically.
 
 ## Run instructions
