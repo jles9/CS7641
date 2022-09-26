@@ -69,7 +69,7 @@ GT ID: 903742149
 
 ## Acknowledgements
 The Project Specifications the following code was written for are provided by:
-Georgia Institute of Technology's CS 7642 (Reinforcement Learning) Class.
+Georgia Institute of Technology's CS 7641 (Machine Learning) Class.
 
 Professors: Charles Isbell and Michael Littman
 
